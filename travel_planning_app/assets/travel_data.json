@@ -1,0 +1,513 @@
+{
+    "cities": [
+      {
+        "cityId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+        "cityName": "London",
+        "cityCountry": "United Kingdom",
+        "trips": [
+          {
+            "tripDuration": 3,
+            "tripDescription": "Exploring the historical landmarks of London",
+            "daysOfTraveling": [
+              {
+                "dayName": "Day 1",
+                "events": [
+                  {
+                    "eventName": "Visit Buckingham Palace",
+                    "geographicalCoordinates": "51.5014° N, 0.1419° W",
+                    "duration": 120,
+                    "comments": ["Don't forget to watch the changing of the guard!"]
+                  },
+                  {
+                    "eventName": "Visit the British Museum",
+                    "geographicalCoordinates": "51.5194° N, 0.1270° W",
+                    "duration": 180,
+                    "comments": ["The Rosetta Stone is a must-see!"]
+                  },
+                  {
+                    "eventName": "Visit the Tower Bridge",
+                    "geographicalCoordinates": "51.5055° N, 0.0754° W",
+                    "duration": 90,
+                    "comments": ["A symbol of London."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 2",
+                "events": [
+                  {
+                    "eventName": "Visit the Tower of London",
+                    "geographicalCoordinates": "51.5081° N, 0.0759° W",
+                    "duration": 150,
+                    "comments": ["Check out the Crown Jewels exhibition."]
+                  },
+                  {
+                    "eventName": "Take a ride on the London Eye",
+                    "geographicalCoordinates": "51.5033° N, 0.1195° W",
+                    "duration": 60,
+                    "comments": ["The view of the city is fantastic!"]
+                  },
+                  {
+                    "eventName": "Visit the Victoria and Albert Museum",
+                    "geographicalCoordinates": "51.4966° N, 0.1722° W",
+                    "duration": 120,
+                    "comments": ["World's largest museum of applied and decorative arts and design."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 3",
+                "events": [
+                  {
+                    "eventName": "Visit the Natural History Museum",
+                    "geographicalCoordinates": "51.4967° N, 0.1764° W",
+                    "duration": 180,
+                    "comments": ["The dinosaur exhibit is great for kids."]
+                  },
+                  {
+                    "eventName": "Stroll through Hyde Park",
+                    "geographicalCoordinates": "51.5073° N, 0.1657° W",
+                    "duration": 90,
+                    "comments": ["A relaxing way to end the trip."]
+                  },
+                  {
+                    "eventName": "Visit the Science Museum",
+                    "geographicalCoordinates": "51.4975° N, 0.1746° W",
+                    "duration": 120,
+                    "comments": ["Explore the history of science and technology."]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tripDuration": 4,
+            "tripDescription": "Exploring the modern landmarks of London",
+            "daysOfTraveling": [
+              {
+                "dayName": "Day 1",
+                "events": [
+                  {
+                    "eventName": "Visit the Shard",
+                    "geographicalCoordinates": "51.5045° N, 0.0865° W",
+                    "duration": 120,
+                    "comments": ["Enjoy the panoramic view of London."]
+                  },
+                  {
+                    "eventName": "Visit the Tate Modern",
+                    "geographicalCoordinates": "51.5076° N, 0.0994° W",
+                    "duration": 180,
+                    "comments": ["Explore modern and contemporary art."]
+                  },
+                  {
+                    "eventName": "Visit the Sky Garden",
+                    "geographicalCoordinates": "51.5111° N, 0.0837° W",
+                    "duration": 90,
+                    "comments": ["London's highest public garden."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 2",
+                "events": [
+                  {
+                    "eventName": "Visit the London Aquarium",
+                    "geographicalCoordinates": "51.5015° N, 0.1193° W",
+                    "duration": 150,
+                    "comments": ["Discover the aquatic life."]
+                  },
+                  {
+                    "eventName": "Take a ride on the River Thames",
+                    "geographicalCoordinates": "51.5074° N, 0.1278° W",
+                    "duration": 60,
+                    "comments": ["Enjoy the river cruise."]
+                  },
+                  {
+                    "eventName": "Visit the Design Museum",
+                    "geographicalCoordinates": "51.4966° N, 0.1728° W",
+                    "duration": 120,
+                    "comments": ["Explore the world of contemporary design."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 3",
+                "events": [
+                  {
+                    "eventName": "Visit the London Zoo",
+                    "geographicalCoordinates": "51.5353° N, 0.1530° W",
+                    "duration": 180,
+                    "comments": ["Meet the animals."]
+                  },
+                  {
+                    "eventName": "Stroll through Regent's Park",
+                    "geographicalCoordinates": "51.5313° N, 0.1565° W",
+                    "duration": 90,
+                    "comments": ["A relaxing way to end the trip."]
+                  },
+                  {
+                    "eventName": "Visit the Madame Tussauds",
+                    "geographicalCoordinates": "51.5228° N, 0.1544° W",
+                    "duration": 120,
+                    "comments": ["Meet the wax figures of famous people."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 4",
+                "events": [
+                  {
+                    "eventName": "Visit the Shard",
+                    "geographicalCoordinates": "51.5045° N, 0.0865° W",
+                    "duration": 120,
+                    "comments": ["Enjoy the panoramic view of London."]
+                  },
+                  {
+                    "eventName": "Visit the Tate Modern",
+                    "geographicalCoordinates": "51.5076° N, 0.0994° W",
+                    "duration": 180,
+                    "comments": ["Explore modern and contemporary art."]
+                  },
+                  {
+                    "eventName": "Visit the Sky Garden",
+                    "geographicalCoordinates": "51.5111° N, 0.0837° W",
+                    "duration": 90,
+                    "comments": ["London's highest public garden."]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "cityId": "6ba7b810-9dad-11d1-80b4-00c04fd430c9",
+        "cityName": "Paris",
+        "cityCountry": "France",
+        "trips": [
+          {
+            "tripDuration": 3,
+            "tripDescription": "Exploring the romantic city of Paris",
+            "daysOfTraveling": [
+              {
+                "dayName": "Day 1",
+                "events": [
+                  {
+                    "eventName": "Visit the Eiffel Tower",
+                    "geographicalCoordinates": "48.8584° N, 2.2945° E",
+                    "duration": 120,
+                    "comments": ["Don't forget to take a picture!"]
+                  },
+                  {
+                    "eventName": "Visit the Louvre Museum",
+                    "geographicalCoordinates": "48.8606° N, 2.3376° E",
+                    "duration": 180,
+                    "comments": ["The Mona Lisa is a must-see!"]
+                  },
+                  {
+                    "eventName": "Stroll along the Seine River",
+                    "geographicalCoordinates": "48.8566° N, 2.3522° E",
+                    "duration": 90,
+                    "comments": ["Enjoy the romantic atmosphere."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 2",
+                "events": [
+                  {
+                    "eventName": "Visit the Palace of Versailles",
+                    "geographicalCoordinates": "48.8049° N, 2.1204° E",
+                    "duration": 150,
+                    "comments": ["Check out the Hall of Mirrors."]
+                  },
+                  {
+                    "eventName": "Visit the Notre-Dame Cathedral",
+                    "geographicalCoordinates": "48.8530° N, 2.3499° E",
+                    "duration": 120,
+                    "comments": ["Admire the French Gothic architecture."]
+                  },
+                  {
+                    "eventName": "Visit the Montmartre",
+                    "geographicalCoordinates": "48.8867° N, 2.3431° E",
+                    "duration": 90,
+                    "comments": ["Enjoy the bohemian atmosphere."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 3",
+                "events": [
+                  {
+                    "eventName": "Visit the Musée d'Orsay",
+                    "geographicalCoordinates": "48.8599° N, 2.3266° E",
+                    "duration": 180,
+                    "comments": ["Discover the world of Impressionism."]
+                  },
+                  {
+                    "eventName": "Visit the Champs-Élysées",
+                    "geographicalCoordinates": "48.8698° N, 2.3075° E",
+                    "duration": 90,
+                    "comments": ["A great place for shopping."]
+                  },
+                  {
+                    "eventName": "Visit the Sacré-Cœur Basilica",
+                    "geographicalCoordinates": "48.8867° N, 2.3431° E",
+                    "duration": 120,
+                    "comments": ["Enjoy the panoramic view of Paris."]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": "6ba7b810-9dad-11d1-80b4-00c04fd4310",
+        "cityName": "New York",
+        "cityCountry": "United States",
+        "trips": [
+          {
+            "tripDuration": 3,
+            "tripDescription": "Exploring the Big Apple",
+            "daysOfTraveling": [
+              {
+                "dayName": "Day 1",
+                "events": [
+                  {
+                    "eventName": "Visit the Statue of Liberty",
+                    "geographicalCoordinates": "40.6892° N, 74.0445° W",
+                    "duration": 120,
+                    "comments": ["A symbol of freedom and democracy."]
+                  },
+                  {
+                    "eventName": "Visit the Metropolitan Museum of Art",
+                    "geographicalCoordinates": "40.7794° N, 73.9632° W",
+                    "duration": 180,
+                    "comments": ["One of the world's largest and finest art museums."]
+                  },
+                  {
+                    "eventName": "Stroll in Central Park",
+                    "geographicalCoordinates": "40.7829° N, 73.9654° W",
+                    "duration": 90,
+                    "comments": ["Enjoy the greenery in the middle of the city."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 2",
+                "events": [
+                  {
+                    "eventName": "Visit the Empire State Building",
+                    "geographicalCoordinates": "40.7488° N, 73.9857° W",
+                    "duration": 150,
+                    "comments": ["Enjoy the panoramic view of New York."]
+                  },
+                  {
+                    "eventName": "Visit Times Square",
+                    "geographicalCoordinates": "40.7580° N, 73.9855° W",
+                    "duration": 120,
+                    "comments": ["The heart of the Theater District."]
+                  },
+                  {
+                    "eventName": "Visit the Broadway",
+                    "geographicalCoordinates": "40.7590° N, 73.9845° W",
+                    "duration": 180,
+                    "comments": ["Watch a world-class theater performance."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 3",
+                "events": [
+                  {
+                    "eventName": "Visit the Museum of Modern Art",
+                    "geographicalCoordinates": "40.7614° N, 73.9776° W",
+                    "duration": 180,
+                    "comments": ["Discover the world of modern and contemporary art."]
+                  },
+                  {
+                    "eventName": "Visit the Brooklyn Bridge",
+                    "geographicalCoordinates": "40.7061° N, 73.9969° W",
+                    "duration": 90,
+                    "comments": ["A great place for a walk."]
+                  },
+                  {
+                    "eventName": "Visit the Wall Street",
+                    "geographicalCoordinates": "40.7069° N, 74.0103° W",
+                    "duration": 120,
+                    "comments": ["The heart of the financial district."]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": "6ba7b810-9dad-11d1-80b4-00c04fd4311",
+        "cityName": "Rome",
+        "cityCountry": "Italy",
+        "trips": [
+          {
+            "tripDuration": 3,
+            "tripDescription": "Exploring the Eternal City",
+            "daysOfTraveling": [
+              {
+                "dayName": "Day 1",
+                "events": [
+                  {
+                    "eventName": "Visit the Colosseum",
+                    "geographicalCoordinates": "41.8902° N, 12.4922° E",
+                    "duration": 120,
+                    "comments": ["The largest amphitheater ever built."]
+                  },
+                  {
+                    "eventName": "Visit the Roman Forum",
+                    "geographicalCoordinates": "41.8925° N, 12.4853° E",
+                    "duration": 180,
+                    "comments": ["The heart of the Roman Empire."]
+                  },
+                  {
+                    "eventName": "Stroll in the Piazza Navona",
+                    "geographicalCoordinates": "41.8992° N, 12.4731° E",
+                    "duration": 90,
+                    "comments": ["Enjoy the Baroque Roman architecture."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 2",
+                "events": [
+                  {
+                    "eventName": "Visit the Pantheon",
+                    "geographicalCoordinates": "41.8986° N, 12.4769° E",
+                    "duration": 150,
+                    "comments": ["The best-preserved Ancient Roman monument."]
+                  },
+                  {
+                    "eventName": "Visit the Vatican City",
+                    "geographicalCoordinates": "41.9029° N, 12.4534° E",
+                    "duration": 180,
+                    "comments": ["The smallest state in the world."]
+                  },
+                  {
+                    "eventName": "Visit the Sistine Chapel",
+                    "geographicalCoordinates": "41.9029° N, 12.4544° E",
+                    "duration": 120,
+                    "comments": ["Admire the frescoes by Michelangelo."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 3",
+                "events": [
+                  {
+                    "eventName": "Visit the Trevi Fountain",
+                    "geographicalCoordinates": "41.9009° N, 12.4833° E",
+                    "duration": 90,
+                    "comments": ["Don't forget to make a wish."]
+                  },
+                  {
+                    "eventName": "Visit the Spanish Steps",
+                    "geographicalCoordinates": "41.9059° N, 12.4823° E",
+                    "duration": 90,
+                    "comments": ["A great place for people watching."]
+                  },
+                  {
+                    "eventName": "Visit the Piazza del Popolo",
+                    "geographicalCoordinates": "41.9110° N, 12.4768° E",
+                    "duration": 90,
+                    "comments": ["Enjoy the neoclassical architecture."]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cityId": "6ba7b810-9dad-11d1-80b4-00c04fd4312",
+        "cityName": "Barcelona",
+        "cityCountry": "Spain",
+        "trips": [
+          {
+            "tripDuration": 3,
+            "tripDescription": "Exploring the vibrant city of Barcelona",
+            "daysOfTraveling": [
+              {
+                "dayName": "Day 1",
+                "events": [
+                  {
+                    "eventName": "Visit the Sagrada Familia",
+                    "geographicalCoordinates": "41.4036° N, 2.1744° E",
+                    "duration": 120,
+                    "comments": ["Admire the masterpiece of Antoni Gaudí."]
+                  },
+                  {
+                    "eventName": "Visit the Park Güell",
+                    "geographicalCoordinates": "41.4145° N, 2.1527° E",
+                    "duration": 180,
+                    "comments": ["Enjoy the beautiful views of the city."]
+                  },
+                  {
+                    "eventName": "Stroll in the Gothic Quarter",
+                    "geographicalCoordinates": "41.3825° N, 2.1769° E",
+                    "duration": 90,
+                    "comments": ["Discover the old city of Barcelona."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 2",
+                "events": [
+                  {
+                    "eventName": "Visit the Casa Batlló",
+                    "geographicalCoordinates": "41.3917° N, 2.1650° E",
+                    "duration": 150,
+                    "comments": ["Another masterpiece of Antoni Gaudí."]
+                  },
+                  {
+                    "eventName": "Visit the Montjuïc Castle",
+                    "geographicalCoordinates": "41.3634° N, 2.1661° E",
+                    "duration": 180,
+                    "comments": ["Enjoy the panoramic view of Barcelona."]
+                  },
+                  {
+                    "eventName": "Visit the Picasso Museum",
+                    "geographicalCoordinates": "41.3851° N, 2.1803° E",
+                    "duration": 120,
+                    "comments": ["Discover the works of Pablo Picasso."]
+                  }
+                ]
+              },
+              {
+                "dayName": "Day 3",
+                "events": [
+                  {
+                    "eventName": "Visit the Camp Nou",
+                    "geographicalCoordinates": "41.3809° N, 2.1228° E",
+                    "duration": 90,
+                    "comments": ["The home stadium of FC Barcelona."]
+                  },
+                  {
+                    "eventName": "Visit the Magic Fountain of Montjuïc",
+                    "geographicalCoordinates": "41.3713° N, 2.1515° E",
+                    "duration": 90,
+                    "comments": ["Enjoy the light and music show."]
+                  },
+                  {
+                    "eventName": "Visit the Poble Espanyol",
+                    "geographicalCoordinates": "41.3686° N, 2.1531° E",
+                    "duration": 120,
+                    "comments": ["Discover the architectural diversity of Spain."]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }    
+    ]
+  }
+  
